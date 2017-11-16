@@ -1,0 +1,60 @@
+
+h2, h3, h4 {
+  font-family: Brandon Grotesque;
+  color: #2668EF;
+}
+
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h1 {
+  font-family: Brandon Grotesque;
+  margin-top: 0;
+  font-size: 6.854em;
+  font-weight: bolder;
+}
+
+h2 {font-size: 4.236em;}
+
+h3 {font-size: 2.618em;}
+
+h4 {font-size: 1.618em;}
+
+p {font-family: Maax;
+  font-weight: 300;
+
+}
+p {margin-bottom: 1.3em;}
+
+small, .font_small {font-size: 0.618em;}
+
+h5{
+  font-family: Brandon Grotesque;
+  margin-top: 0;
+  font-size: 6.854em;
+  font-weight: bolder;
+}
+.h5 {
+    position:absolute;
+    left: 29px;
+    top: 25px;
+    font-family: Brandon Grotesque;
+    color:#2668EF;}
+
+@media (max-width: 790px){
+  h1 {
+    font-size: 3.4em
+  }
+  h5{
+    font-size: 3.4em
+  }
+  header::after{
+    width: 80px;
+    height: 80px;
+    top:190px;
+  }
+}
