@@ -131,3 +131,13 @@ span.lettrine {
   align-content: center;
   padding: 30px;
 }
+
+@font-face {
+  font-family: 'Brandon Grotesque';
+  src: url('brandongrotesque.eot'); /* IE9 Compat Modes */
+  src: url('brandongrotesque.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('brandongrotesque.woff2') format('woff2'), /* Super Modern Browsers */
+       url('brandongrotesque.woff') format('woff'), /* Pretty Modern Browsers */
+       url('brandongrotesque.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('brandongrotesque.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
