@@ -1,6 +1,6 @@
 
 h2, h3, h4 {
-  font-family: Brandon Grotesque;
+  font-family: "Brandon Grotesque";
   color: #2668EF;
 }
 
@@ -12,7 +12,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-family: Brandon Grotesque;
+  font-family: "Brandon Grotesque";
   margin-top: 0;
   font-size: 6.854em;
   font-weight: bolder;
