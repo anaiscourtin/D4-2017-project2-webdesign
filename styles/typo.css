@@ -1,6 +1,6 @@
 
 h2, h3, h4 {
-  font-family: "Brandon Grotesque";
+  font-family: "Brandon-Grotesque";
   color: #2668EF;
 }
 
@@ -12,7 +12,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-family: "Brandon Grotesque";
+  font-family: "Brandon-Grotesque";
   margin-top: 0;
   font-size: 6.854em;
   font-weight: bolder;
@@ -33,7 +33,7 @@ p {margin-bottom: 1.3em;}
 small, .font_small {font-size: 0.618em;}
 
 h5{
-  font-family: "Brandon Grotesque";
+  font-family: "Brandon-Grotesque";
   margin-top: 0;
   font-size: 6.854em;
   font-weight: bolder;
@@ -42,7 +42,7 @@ h5{
     position:absolute;
     left: 29px;
     top: 25px;
-    font-family: Brandon Grotesque;
+    font-family: "Brandon-Grotesque";
     color:#2668EF;}
 
 @media (max-width: 790px){
