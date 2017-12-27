@@ -18,14 +18,15 @@ header{
 header::after{
   content: "";
   display: block;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   position: absolute;
   left: 50%;
-  transform: translateX(-50%) translateY(-50%) rotate(45deg);
+  transform: translateX(-50%) translateY(15%) rotate(45deg);
   background-color: #FF5655;
   top: 275px;
   border-radius: 50%;
+  font-family: Brandon Grotesque;
 }
 
 .nastyadvert{
@@ -38,7 +39,7 @@ header::after{
 
 .nastyadvert h1{
 font-size: 4em;
-font-family: Brandon Grotesque;
+font-family: Brandon-Grotesque;
 color: #2668EF;
 text-align:center;
 letter-spacing: 0.1em;
@@ -130,4 +131,15 @@ span.lettrine {
   align-items: center;
   align-content: center;
   padding: 30px;
+}
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+  display: block;
+  padding: 1em;
+  border-radius: 1em;
+  color: #fff;
+  text-decoration: none;
 }

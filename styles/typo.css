@@ -24,8 +24,7 @@ h3 {font-size: 2.618em;}
 
 h4 {font-size: 1.618em;}
 
-p {font-family: "Brandon-Grotesque";
-  font-weight: 300;
+p {font-family: "Adelle";
 
 }
 p {margin-bottom: 1.3em;}
@@ -37,6 +36,7 @@ h5{
   margin-top: 0;
   font-size: 6.854em;
   font-weight: bolder;
+  margin-bottom: 0;
 }
 .h5 {
     position:absolute;
